@@ -1,0 +1,92 @@
+[
+    {
+        "playerId": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "image": "https://i.ibb.co/wdKT4pb/gettyimages-1288966957-612x612.jpg",
+        "role": "All-Rounder",
+        "battingType": "Right-Hand-Bat",
+        "bowlingType": "Right-Arm-Offbreak",
+        "price": 1500000
+    },
+    {
+        "playerId": 2,
+        "name": "David Warner",
+        "country": "Australia",
+        "image": "https://i.ibb.co/DCdw3xW/gettyimages-1160440588-612x612.jpg",
+        "role": "Batsman",
+        "battingType": "Left-Hand-Bat",
+        "bowlingType": "Right-Arm-Legbreak",
+        "price": 1200000
+    },
+    {
+        "playerId": 3,
+        "name": "Ben Stokes",
+        "country": "England",
+        "image": "https://i.ibb.co/1T0CgsM/gettyimages-1441135961-612x612.jpg",
+        "role": "All-Rounder",
+        "battingType": "Left-Hand-Bat",
+        "bowlingType": "Right-Arm-Medium",
+        "price": 1600000
+    },
+    {
+        "playerId": 4,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co/nCQXxR8/gettyimages-1434410451-612x612.jpg",
+        "role": "Batsman",
+        "battingType": "Right-Hand-Bat",
+        "bowlingType": "Right-Arm-Offbreak",
+        "price": 1400000
+    },
+    {
+        "playerId": 5,
+        "name": "Chris Gayle",
+        "country": "West Indies",
+        "image": "https://i.ibb.co/n1hy666/gettyimages-1159984087-612x612.jpg",
+        "role": "Batsman",
+        "battingType": "Left-Hand-Bat",
+        "bowlingType": "Right-Arm-Offbreak",
+        "price": 1500000
+    },
+    {
+        "playerId": 6,
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "image": "https://i.ibb.co/sPXS0Gq/gettyimages-1803341203-612x612.jpg",
+        "role": "Bowler",
+        "battingType": "Right-Hand-Bat",
+        "bowlingType": "Right-Arm-Fast",
+        "price": 1400000
+    },
+    {
+        "playerId": 7,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "image": "https://i.ibb.co/TMrHzj6/gettyimages-1434948635-612x612.jpg",
+        "role": "All-Rounder",
+        "battingType": "Left-Hand-Bat",
+        "bowlingType": "Left-Arm-Orthodox",
+        "price": 1350000
+    },
+    {
+        "playerId": 8,
+        "name": "Kumar Sangakkara",
+        "country": "Sri Lanka",
+        "image": "https://i.ibb.co/n8nnr3H/gettyimages-465816600-612x612.jpg",
+        "role": "Wicketkeeper-Batsman",
+        "battingType": "Left-Hand-Bat",
+        "bowlingType": "Right-Arm-Offbreak",
+        "price": 1300000
+    },
+    {
+        "playerId": 9,
+        "name": "Shoaib Akhtar",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co/mcyDpJn/gettyimages-109454266-612x612.jpg",
+        "role": "Bowler",
+        "battingType": "Right-Hand-Bat",
+        "bowlingType": "Right-Arm-Fast",
+        "price": 1450000
+    }
+]
